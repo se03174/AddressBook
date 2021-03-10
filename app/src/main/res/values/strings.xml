@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AddressBook</string>
+    <string name="title">[my addressbook] </string>
+    <string name="name">NAME</string>
+    <string name="phone">PHONE</string>
+    <string name="email">EMAIL</string>
+    <string name="add">ADD</string>
+    <string name="del">DEL</string>
+    <string name="nothing">NOTHING</string>
+    <string name="add_msg">YOU MUST ENTER THREE ITEM.</string>
+    <string name="del_msg"> DON\'T EXIST ITEM.</string>
+</resources>
